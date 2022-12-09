@@ -4,7 +4,7 @@ void setup() {
 }
 
 void loop() {
-  stampaCiao();
+  keyPad();
 
 }
 
