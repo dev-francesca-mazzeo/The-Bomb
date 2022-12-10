@@ -15,4 +15,3 @@ Uno dei giocatori assume il ruolo dell'Eroe improbabile, che trova una bomba e c
 
 
 link progettazione ciruiti:
-https://www.tinkercad.com/things/1MZmRcNoPef-epic-leelo-waasa/editel?sharecode=Pl06hn8QsYuTqOEV64rbdD9AJdsxpCUsNoRvlu_ZA8E
