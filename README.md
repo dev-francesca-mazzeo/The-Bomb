@@ -12,3 +12,7 @@ Them Bomb è un gioco da tavolo cooperativo digitale per 2-4 giocatori.
 
 Come giocare
 Uno dei giocatori assume il ruolo dell'Eroe improbabile, che trova una bomba e cerca di disinnescarla. Gli altri giocatori guidano l'eroe attraverso il processo, utilizzando uno speciale manuale di bombe. Solo l'eroe può guardare la bomba e solo il team di supporto può leggere il manuale. I giocatori devono comunicare per disinnescare la bomba.
+
+
+link progettazione ciruiti:
+https://mail.google.com/
