@@ -14,5 +14,5 @@ Come giocare
 Uno dei giocatori assume il ruolo dell'Eroe improbabile, che trova una bomba e cerca di disinnescarla. Gli altri giocatori guidano l'eroe attraverso il processo, utilizzando uno speciale manuale di bombe. Solo l'eroe può guardare la bomba e solo il team di supporto può leggere il manuale. I giocatori devono comunicare per disinnescare la bomba.
 
 
-link progettazione ciruiti:
+link progettazione ciruiti:                                                                                                                                               
 Keypad - https://www.tinkercad.com/things/1MZmRcNoPef-keypad-the-bomb/editel?sharecode=Pl06hn8QsYuTqOEV64rbdD9AJdsxpCUsNoRvlu_ZA8E
